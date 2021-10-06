@@ -1,0 +1,21 @@
+{
+  "name": "wetube-renewal",
+  "version": "1.0.0",
+  "description": "The best way to watch & upload videos.",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helious23/wetube-renewal.git"
+  },
+  "author": "Max Wang<max16@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/helious23/wetube-renewal/issues"
+  },
+  "homepage": "https://github.com/helious23/wetube-renewal#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
